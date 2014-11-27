@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416930518 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/ArbolesB/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
